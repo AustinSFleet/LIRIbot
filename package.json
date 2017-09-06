@@ -1,0 +1,30 @@
+{
+  "name": "liri",
+  "version": "1.0.0",
+  "description": "liri",
+  "main": "liri.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AustinSFleet/LiriBot.git"
+  },
+  "keywords": [
+    "spotify",
+    "request",
+    "twitter",
+    "imdb"
+  ],
+  "author": "austin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AustinSFleet/LiriBot/issues"
+  },
+  "homepage": "https://github.com/AustinSFleet/LiriBot#readme",
+  "dependencies": {
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.81.0",
+    "twitter": "^1.7.1"
+  }
+}
